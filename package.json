@@ -1,7 +1,7 @@
 {
   "name": "@victorli/my-awesome-greeter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
     "build": "tsc"
