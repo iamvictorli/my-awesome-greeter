@@ -1,6 +1,6 @@
 {
   "name": "@victorli/my-awesome-greeter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "types": "index.d.ts",
   "scripts": {
@@ -9,7 +9,9 @@
   "repository": "git@github.com:iamvictorli/my-awesome-greeter.git",
   "author": "Victor Li <victorli5674@yahoo.com>",
   "license": "MIT",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "prepare": "npm run build",
   "devDependencies": {
     "typescript": "^3.8.3"
